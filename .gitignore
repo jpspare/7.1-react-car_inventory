@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-config/auth0.config.ts
-config/server.config.ts
+/src/config/auth0.config.ts
+/src/config/server.config.ts
